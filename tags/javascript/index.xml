@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on ddinnis&#39; Site</title>
-    <link>https://ddinnis.github.io/posts/</link>
-    <description>Recent content in Posts on ddinnis&#39; Site</description>
+    <title>JavaScript on ddinnis&#39; Site</title>
+    <link>https://ddinnis.github.io/tags/javascript/</link>
+    <description>Recent content in JavaScript on ddinnis&#39; Site</description>
     <image>
       <url>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 26 Mar 2022 12:33:25 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Mar 2022 12:33:25 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>数组去重</title>
       <link>https://ddinnis.github.io/posts/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D/</link>
