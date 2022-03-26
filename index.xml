@@ -17,11 +17,10 @@
       <pubDate>Sat, 26 Mar 2022 12:33:25 +0800</pubDate>
       
       <guid>https://ddinnis.github.io/posts/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D/</guid>
-      <description>对数组进行去重
-1、Reduce() 方法
-let myArray = [&amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;d&amp;#39;, &amp;#39;d&amp;#39;] let myArrayWithNoDuplicates = myArray.reduce( (previousValue, currentValue) =&amp;gt; {  if (previousValue.indexOf(currentValue) === -1) {  previousValue.push(currentValue)  }  return previousValue }, []) console.log(myArrayWithNoDuplicates) //output：[ &amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;d&amp;#39; ] 2、利用 Set()  中元素是唯一的特点
-arrayWithNoDuplicates = Array.from(new Set(myArray)) console.log(arrayWithNoDuplicates) //output：[ &amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;d&amp;#39; ] console.log([...new Set(myArray)]) //output：[ &amp;#39;a&amp;#39;, &amp;#39;b&amp;#39;, &amp;#39;c&amp;#39;, &amp;#39;e&amp;#39;, &amp;#39;d&amp;#39; ] </description>
+      <description>Javascript：对数组去重</description>
     </item>
+    
+    
     
   </channel>
 </rss>
