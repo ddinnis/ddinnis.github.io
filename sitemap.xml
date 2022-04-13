@@ -2,30 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ddinnis.github.io/projects/</loc>
+  </url><url>
     <loc>https://ddinnis.github.io/categories/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/tags/javascript/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/categories/note/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/posts/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
+  </url><url>
+    <loc>https://ddinnis.github.io/posts/prototype-vs-__proto__/</loc>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/tags/</loc>
-    <lastmod>2022-03-26T12:33:25+08:00</lastmod>
+    <lastmod>2022-04-13T22:03:42+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/posts/%E6%95%B0%E7%BB%84%E5%8E%BB%E9%87%8D/</loc>
     <lastmod>2022-03-26T12:33:25+08:00</lastmod>
   </url><url>
     <loc>https://ddinnis.github.io/archives/</loc>
-  </url><url>
-    <loc>https://ddinnis.github.io/projects/</loc>
   </url><url>
     <loc>https://ddinnis.github.io/search/</loc>
   </url>
