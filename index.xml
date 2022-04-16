@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Apr 2022 22:03:42 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 22:13:56 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>Execution Context &amp;&amp; Scop chain</title>
+      <link>https://ddinnis.github.io/posts/execution-context-scop-chain/</link>
+      <pubDate>Sat, 16 Apr 2022 22:13:56 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/execution-context-scop-chain/</guid>
+      <description>&lt;p&gt;这是一篇执行上下文(Execution Context) &amp;amp;&amp;amp; 作用域链(Scop chain)的笔记，参考了&lt;a href=&#34;#Reference&#34;&gt;其它视频和博客资料&lt;/a&gt;。如有错误，欢迎指正。&lt;/p&gt;</description>
     </item>
     
     <item>

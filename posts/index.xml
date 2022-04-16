@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 13 Apr 2022 22:03:42 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Apr 2022 22:13:56 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Execution Context &amp;&amp; Scop chain</title>
+      <link>https://ddinnis.github.io/posts/execution-context-scop-chain/</link>
+      <pubDate>Sat, 16 Apr 2022 22:13:56 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/execution-context-scop-chain/</guid>
+      <description>&lt;p&gt;这是一篇执行上下文(Execution Context) &amp;amp;&amp;amp; 作用域链(Scop chain)的笔记，参考了&lt;a href=&#34;#Reference&#34;&gt;其它视频和博客资料&lt;/a&gt;。如有错误，欢迎指正。&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Prototype vs __Proto__</title>
       <link>https://ddinnis.github.io/posts/prototype-vs-__proto__/</link>

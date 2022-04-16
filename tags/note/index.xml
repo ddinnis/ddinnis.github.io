@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Note on ddinnis&#39; Site</title>
+    <link>https://ddinnis.github.io/tags/note/</link>
+    <description>Recent content in Note on ddinnis&#39; Site</description>
+    <image>
+      <url>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sat, 16 Apr 2022 22:13:56 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/tags/note/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Execution Context &amp;&amp; Scop chain</title>
+      <link>https://ddinnis.github.io/posts/execution-context-scop-chain/</link>
+      <pubDate>Sat, 16 Apr 2022 22:13:56 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/execution-context-scop-chain/</guid>
+      <description>&lt;p&gt;这是一篇执行上下文(Execution Context) &amp;amp;&amp;amp; 作用域链(Scop chain)的笔记，参考了&lt;a href=&#34;#Reference&#34;&gt;其它视频和博客资料&lt;/a&gt;。如有错误，欢迎指正。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
