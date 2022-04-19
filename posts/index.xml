@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Apr 2022 22:13:56 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 13:27:08 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>this</title>
+      <link>https://ddinnis.github.io/posts/this/</link>
+      <pubDate>Tue, 19 Apr 2022 13:27:08 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/this/</guid>
+      <description>函数在调用时，JavaScripts会默认给this绑定一个值； this的绑定和定义的位置无关； this的绑定和调用方式以及调用的位置有关；</description>
+    </item>
+    
     <item>
       <title>Execution Context &amp;&amp; Scop chain</title>
       <link>https://ddinnis.github.io/posts/execution-context-scop-chain/</link>

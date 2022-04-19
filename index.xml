@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 16 Apr 2022 22:13:56 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Apr 2022 13:27:08 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>this</title>
+      <link>https://ddinnis.github.io/posts/this/</link>
+      <pubDate>Tue, 19 Apr 2022 13:27:08 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/this/</guid>
+      <description>函数在调用时，JavaScripts会默认给this绑定一个值； this的绑定和定义的位置无关； this的绑定和调用方式以及调用的位置有关；</description>
     </item>
     
     <item>
