@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 19 Apr 2022 13:27:08 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 May 2022 21:54:43 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>var，let and const</title>
+      <link>https://ddinnis.github.io/posts/varlet-and-const/</link>
+      <pubDate>Sat, 07 May 2022 21:54:43 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/varlet-and-const/</guid>
+      <description>JavaScript目前有三个关键字来声明变量，即var, let, const。 在ES6之前只有一种方法 var 来申明变量，ES6后新添了 let 和 const 声明变量。</description>
     </item>
     
     <item>
