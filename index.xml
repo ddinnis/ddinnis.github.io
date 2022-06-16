@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Sat, 07 May 2022 21:54:43 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 16 Jun 2022 17:26:07 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>闭包(closure)</title>
+      <link>https://ddinnis.github.io/posts/%E9%97%AD%E5%8C%85closure/</link>
+      <pubDate>Thu, 16 Jun 2022 17:26:07 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/%E9%97%AD%E5%8C%85closure/</guid>
+      <description>定义 一个函数和对其周围状态（lexical environment，词法环境）的引用捆绑在一起（或者说函数被引用包围），这样的组合就是闭包（c</description>
     </item>
     
     <item>
