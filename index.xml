@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 16 Jun 2022 17:26:07 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Aug 2022 14:27:06 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>Git有关常用命令</title>
+      <link>https://ddinnis.github.io/posts/git%E6%9C%89%E5%85%B3%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Mon, 15 Aug 2022 14:27:06 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/git%E6%9C%89%E5%85%B3%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>在操作如何用 Git 上传管理代码至 GitHub 时常常用到的命令，当时只知道照着网站上的步骤一步一步敲命令行，但不知其所以然，所以用这篇文章记录一下笔记。 1、</description>
     </item>
     
     <item>
@@ -36,6 +45,15 @@
       
       <guid>https://ddinnis.github.io/posts/varlet-and-const/</guid>
       <description>JavaScript目前有三个关键字来声明变量，即var, let, const。 在ES6之前只有一种方法 var 来申明变量，ES6后新添了 let 和 const 声明变量。</description>
+    </item>
+    
+    <item>
+      <title>this习题</title>
+      <link>https://ddinnis.github.io/posts/this%E4%B9%A0%E9%A2%98/</link>
+      <pubDate>Wed, 27 Apr 2022 21:12:58 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/this%E4%B9%A0%E9%A2%98/</guid>
+      <description>1、 var x = 10; var obj = { x: 20, f: function(){ console.log(this.x); // ? var foo = function(){ console.log(this.x); } foo(); // ? } }; obj.f(); obj.f() 执行的时候很明显是默认绑定，绑定到了obj上。\ 执行foo() 的时候前面没有任何</description>
     </item>
     
     <item>

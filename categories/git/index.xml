@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>git on ddinnis&#39; Site</title>
+    <link>https://ddinnis.github.io/categories/git/</link>
+    <description>Recent content in git on ddinnis&#39; Site</description>
+    <image>
+      <url>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://ddinnis.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 15 Aug 2022 14:27:06 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/categories/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Git有关常用命令</title>
+      <link>https://ddinnis.github.io/posts/git%E6%9C%89%E5%85%B3%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Mon, 15 Aug 2022 14:27:06 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/git%E6%9C%89%E5%85%B3%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>在操作如何用 Git 上传管理代码至 GitHub 时常常用到的命令，当时只知道照着网站上的步骤一步一步敲命令行，但不知其所以然，所以用这篇文章记录一下笔记。 1、</description>
+    </item>
+    
+  </channel>
+</rss>
