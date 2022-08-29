@@ -10,7 +10,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Aug 2022 14:27:06 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 11:45:46 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects 🤹‍♂️</title>
       <link>https://ddinnis.github.io/projects/</link>
@@ -18,6 +18,15 @@
       
       <guid>https://ddinnis.github.io/projects/</guid>
       <description>Tenzies GITHUB: https://github.com/ddinnis/tenzies 这是一个 Demo FreeCodeCamp GITHUB: https://github.com/ddinnis/freecodecamp Tribute Page Survey Form Product Landing Page Technical Documentation Page Personal Portfolio Web Development Bootcamp by Angela GITHUB: https://github.com/ddinnis/Web-Development-Bootcamp-by-Angela Dicee Drum Kit My Site TinDog</description>
+    </item>
+    
+    <item>
+      <title>事件循环(event loop)</title>
+      <link>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</link>
+      <pubDate>Mon, 29 Aug 2022 11:45:46 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</guid>
+      <description>JS是单线程语言 JS是一种单线程（single thread）语言，意味着是从上往下一行一行进行执行，但在需要进行网络请求、定时器等异步任务时</description>
     </item>
     
     <item>

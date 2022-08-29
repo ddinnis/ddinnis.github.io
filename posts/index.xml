@@ -10,7 +10,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 15 Aug 2022 14:27:06 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Aug 2022 11:45:46 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>事件循环(event loop)</title>
+      <link>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</link>
+      <pubDate>Mon, 29 Aug 2022 11:45:46 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</guid>
+      <description>JS是单线程语言 JS是一种单线程（single thread）语言，意味着是从上往下一行一行进行执行，但在需要进行网络请求、定时器等异步任务时</description>
+    </item>
+    
     <item>
       <title>Git有关常用命令</title>
       <link>https://ddinnis.github.io/posts/git%E6%9C%89%E5%85%B3%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
