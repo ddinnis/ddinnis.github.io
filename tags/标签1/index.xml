@@ -10,14 +10,32 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Mon, 29 Aug 2022 11:45:46 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Sep 2022 21:13:23 +0800</lastBuildDate><atom:link href="https://ddinnis.github.io/tags/%E6%A0%87%E7%AD%BE1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>水平垂直居中</title>
+      <link>https://ddinnis.github.io/posts/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/</link>
+      <pubDate>Mon, 12 Sep 2022 21:13:23 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E5%B1%85%E4%B8%AD/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promise</title>
+      <link>https://ddinnis.github.io/posts/promise/</link>
+      <pubDate>Fri, 09 Sep 2022 20:37:37 +0800</pubDate>
+      
+      <guid>https://ddinnis.github.io/posts/promise/</guid>
+      <description>由于JavaScript的语言特性： 单线程（single threaded） 同步执行（Synchronously executed） 但在有的时候</description>
+    </item>
+    
     <item>
       <title>事件循环(event loop)</title>
       <link>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</link>
       <pubDate>Mon, 29 Aug 2022 11:45:46 +0800</pubDate>
       
       <guid>https://ddinnis.github.io/posts/%E4%BA%8B%E4%BB%B6%E5%BE%AA%E7%8E%AFevent-loop/</guid>
-      <description>JS是单线程语言 JS是一种单线程（single thread）语言，意味着是从上往下一行一行进行执行，但在需要进行网络请求、定时器等异步任务时</description>
+      <description>JS是单线程语言 JS是一种单线程（single thread）语言，JavaScript的主要用途是与用户互动，以及操作DOM。这决定了它只能</description>
     </item>
     
   </channel>
