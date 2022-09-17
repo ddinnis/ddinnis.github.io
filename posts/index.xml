@@ -71,7 +71,7 @@
       <pubDate>Wed, 27 Apr 2022 21:12:58 +0800</pubDate>
       
       <guid>https://ddinnis.github.io/posts/this%E4%B9%A0%E9%A2%98/</guid>
-      <description>1、 var x = 10; var obj = { x: 20, f: function(){ console.log(this.x); // ? var foo = function(){ console.log(this.x); } foo(); // ? } }; obj.f(); obj.f() 执行的时候很明显是默认绑定，绑定到了obj上。\ 执行foo() 的时候前面没有任何</description>
+      <description>1、 var x = 10; var obj = { x: 20, f: function(){ console.log(this.x); // ? var foo = function(){ console.log(this.x); } foo(); // ? } }; obj.f(); obj.f() 执行的时候很明显是默认绑定，绑定到了obj上。 执行foo() 的时候前面没有任何东</description>
     </item>
     
     <item>
